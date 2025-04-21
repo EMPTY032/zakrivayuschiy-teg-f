@@ -8,4 +8,6 @@
   --body-max-width: 700px;
   --stroke-color: #fff;
   --text-color: #fff;
+  --heart-stroke-color: #000;
+  --heart-body-color: #ff0000;
 }
