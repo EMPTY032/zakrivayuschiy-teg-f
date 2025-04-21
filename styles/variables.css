@@ -1,1 +1,11 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  --background-image: url("../images/background.png");
+  --main-font: "Inter-Variable";
+  --accent-font: "PressStart2P";
+  --text-weight: 400;
+  --heading-weight: 700;
+  --body-max-width: 700px;
+  --stroke-color: #fff;
+  --text-color: #fff;
+}
